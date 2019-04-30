@@ -12,6 +12,5 @@
             "email": "support@magefan.com"
         }
     ],
-    "type": "metapackage",
-    "license": "EULA"
+    "type": "metapackage"
 }
