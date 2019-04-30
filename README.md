@@ -25,6 +25,11 @@ This [Magento 2 Blog module](https://magefan.com/magento2-extensions) allows you
  bin/magento setup:static-content:deploy
 ```
 
+## Sub-Extensions
+  * [magefan/module-dsu-server](https://github.com/magefan/module-dsu-server)
+  * [magefan/module-dsu-client](https://github.com/magefan/module-dsu-client)
+
+
 
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
