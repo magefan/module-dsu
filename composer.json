@@ -1,0 +1,17 @@
+{
+    "name": "magefan/module-dsu",
+    "description": "Magento 2 Development Store Update Tool by Magefan",
+    "version": "2.1.0",
+    "require": {
+        "magefan/module-dsu-client": "2.1.0",
+        "magefan/module-dsu-server": "2.1.0",
+    },
+    "authors": [
+        {
+            "name": "Magefan",
+            "email": "support@magefan.com"
+        }
+    ],
+    "type": "metapackage",
+    "license": "EULA"
+}
