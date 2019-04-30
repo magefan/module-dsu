@@ -18,13 +18,12 @@ This [Magento 2 Blog module](https://magefan.com/magento2-extensions) allows you
  
 
 ## Installation Instruction
+```
  composer require magefan/module-dsu
- 
  bin/magento setup:upgrade
- 
  bin/magento setup:di:compile
- 
  bin/magento setup:static-content:deploy
+```
 
 
 ## Support
