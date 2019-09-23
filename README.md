@@ -3,7 +3,7 @@
 [![Total Downloads](https://poser.pugx.org/magefan/module-dsu/downloads)](https://packagist.org/packages/magefan/module-dsu)
 [![Latest Stable Version](https://poser.pugx.org/magefan/module-dsu/v/stable)](https://packagist.org/packages/magefan/module-dsu)
 
-This [Magento 2 module](https://magefan.com/magento2-extensions) allows you to easly update dev/stage database and media folder
+This [Magento 2 module](https://magefan.com/magento2-extensions) allows you to easily update dev/stage database and media folder
 
 ## Requirements
   * Magento Community Edition 2.1.0-2.3.x or Magento Enterprise Edition 2.1.0-2.3.x
